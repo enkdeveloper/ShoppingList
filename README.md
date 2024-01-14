@@ -1,4 +1,5 @@
-![5](https://github.com/enkdeveloper/ShoppingList/assets/119349974/6b195034-8f6d-42ee-93a9-0ce42b8c166f)🛒 Welcome to Your Ultimate Shopping Companion!
+![SHOPPING LIST](https://github.com/enkdeveloper/ShoppingList/assets/119349974/3235bf4e-bd2c-499e-8b12-6820aa4a881d)
+🛒 Welcome to Your Ultimate Shopping Companion!
 
 Are you tired of forgetting items at the store or dealing with messy shopping lists? Look no further! Our shopping list app is designed to simplify your shopping experience, making it easier and more organized than ever before.
 
@@ -31,4 +32,8 @@ Enjoy a user-friendly and intuitive interface.
 Keep your data secure in the cloud.
 Smart suggestions for efficient list creation.
 🛍️ Upgrade your shopping experience today! Download our app now and make every trip to the store a breeze. Happy shopping!
+
+![5](https://github.com/enkdeveloper/ShoppingList/assets/119349974/ffa4849d-8161-490e-849d-cb5b1966d0b1)
+![2](https://github.com/enkdeveloper/ShoppingList/assets/119349974/c9dac5f6-70bd-4ca5-8135-a349a564db09)
+![1](https://github.com/enkdeveloper/ShoppingList/assets/119349974/d8a58a40-8d74-492c-81f0-bab0c9b13813)
 
