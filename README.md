@@ -1,4 +1,7 @@
 ![SHOPPING LIST](https://github.com/enkdeveloper/ShoppingList/assets/119349974/3235bf4e-bd2c-499e-8b12-6820aa4a881d)
+
+
+
 🛒 Welcome to Your Ultimate Shopping Companion!
 
 Are you tired of forgetting items at the store or dealing with messy shopping lists? Look no further! Our shopping list app is designed to simplify your shopping experience, making it easier and more organized than ever before.
